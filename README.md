@@ -20,7 +20,7 @@ Se quiser ler traduções não-livres como ARA, NAA, ARC, ACF, NTI, NTV e outras
 
       -l      lista os livros
       -W      cada versículo em uma linha
-      -h      mostrar ajuda
+      -h      mostra a ajuda
 
       Tipos de referência:
           <Livro>
