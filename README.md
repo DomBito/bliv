@@ -9,7 +9,7 @@ Sem os textos apócrifos, assim como na ideia original de implementação [bonti
 
 - Baseada na tradução Almeida de 1819, é uma tradução intermediária entre uma equivalência formal e uma equivalência dinâmica/funcional.
 - As palavras em colchetes não têm correspondentes diretas e explícitas no texto das línguas originais. Estas são adicionadas à tradução por terem seu sentido inferido do contexto ou para tornar o texto adequado à língua portuguesa. Traduções como a ARC e ACF colocam essas palavras em itálico.
-- A bíblia livre também pussui uma tradução com o texto crítico. Aqui disponibizei apenas a versão com o texto recebido. Se quiser uma versão com o texto crítico, fique à vontade para bifurcar o projeto.
+- A bíblia livre também pussui uma tradução com o texto crítico. Aqui disponibilizei apenas a versão com o texto recebido. Se quiser uma versão com o texto crítico, fique à vontade para bifurcar o projeto.
 
 Se quiser ler traduções não-livres como ARA, NAA, ARC, ACF, NTI, NTV e outras: acesse a [Bíblia Online](https://www.bibliaonline.com.br/).
 
